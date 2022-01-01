@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @kausik2004
 - 👀 I’m interested in coding, cycling, and books
-- 🌱 I’m currently learning Python and I'm a beginner
-- 💞️ I’m looking to collaborate on projects based on Python 
+- 🌱 I’m currently learning Python and I'm a beginner 
 - 📫 How to reach me: vinikausik@gmail.com
-- I'm keen to work as an intern for projects based on Python if I could learn something new out of our Collaboration!
-- Symbiotic Relationship:)
 - See you later!
 
 <!---
