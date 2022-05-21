@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kausik2004
 - 👀 I’m interested in coding, cycling, and books
 - 🌱 I’m currently learning Python and I'm a beginner 
-- 📫 How to reach me: vinikausik@gmail.com
+- 📫 How to reach me: kausikdevanathan@gmail.com
 - See you later!
 
 
