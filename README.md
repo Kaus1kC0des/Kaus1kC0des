@@ -3,11 +3,7 @@
 - 🌱 I’m currently learning Python and I'm a beginner 
 - 📫 How to reach me: vinikausik@gmail.com
 - See you later!
-- for decisions in life:
--   if decision==right:
--     print(Well and Good!")
--   else decision==wrong:
--     print("Take'em and make'em right!!")
+
 
 
 
