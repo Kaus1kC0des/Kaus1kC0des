@@ -13,23 +13,19 @@
 
 - 👯 I’m looking to collaborate on [Nutrify.app](https://github.com/mrdbourke/nutrify)
 
-- 🤝 I’m looking for help with [MoMoPaisa](https://github.com/Kaus1kC0des/MoMoPaisa)
+- 👨‍💻 All of my projects are available at [GitHub](github.com/Kaus1kC0des)
 
-- 👨‍💻 All of my projects are available at [github.com/Kaus1kC0des](github.com/Kaus1kC0des)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/kausik-devanathan/](https://www.linkedin.com/in/kausik-devanathan/)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/kausik-devanathan/)
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Python, Data Analytics**
 
 - 📫 How to reach me **kausikdevanathan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kzjmNeYDlX0QmWjf2_Y7OJqR_TZYT7BJ/view?usp=drive_link](https://drive.google.com/file/d/1kzjmNeYDlX0QmWjf2_Y7OJqR_TZYT7BJ/view?usp=drive_link)
+- 📄 Know about my experiences - [Resume](https://drive.google.com/open?id=127YZoF8iVp27CoKJ93Iw4pzG4WExqWTD&usp=drive_fs)
 
 - ⚡ Fun fact **I am a foodie!!**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
